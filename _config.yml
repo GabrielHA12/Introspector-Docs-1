@@ -6,7 +6,7 @@ description: "Offensive framework for deep HTTP/DNS exploitation: listeners, pay
 author: deepsecurity-pe
 
 # GitHub Pages settings
-url: https://dedal0.github.io
+url: https://DeepSecurityResearch.github.io
 baseurl: /Introspector-Docs
 
 # Build settings
@@ -102,4 +102,4 @@ twitter:
 social:
   name: Deep Security
   links:
-    - https://github.com/deepsecurity-pe
+    - https://github.com/deepsecurityresearch
