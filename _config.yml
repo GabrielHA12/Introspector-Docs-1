@@ -7,7 +7,7 @@ author: deepsecurity-pe
 
 # GitHub Pages settings
 url: https://www.introspector.sh
-baseurl: /Introspector-Docs
+baseurl: /
 
 # Build settings
 markdown: kramdown
