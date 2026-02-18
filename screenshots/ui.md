@@ -8,11 +8,10 @@ title: UI Demo
 
 <img style="width:100%; border-radius:14px; display:block;" src="{{ '/assets/img/Screenshot-02.png' | relative_url }}" alt="Introspector HTTP and DNS Callback server">
 
----
 
 ### Analysis and Detect SSRF Detection with controlled response delay
 *If you want to be sure about a backend's interaction, you can use Introspector to set specific response time to a response.*
 
-<img style="width:100%; border-radius:14px; display:block;" src="{{ '/assets/img/Screenshot-02.png' | relative_url }}" alt="Introspector SSRF Analysis">
+<img style="width:100%; border-radius:14px; display:block;" src="{{ '/assets/img/Screenshot-01.png' | relative_url }}" alt="Introspector SSRF Analysis">
 
 
