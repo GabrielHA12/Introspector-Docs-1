@@ -17,6 +17,18 @@ hero:
       description: See the UI and workflow in action
 ---
 
+<video
+  autoplay
+  loop
+  muted
+  playsinline
+  preload="auto"
+  style="width:100%; border-radius:14px; display:block;"
+>
+  <source src="{{ '/assets/videos/intro.mp4' | relative_url }}" type="video/mp4">
+  Tu navegador no soporta video HTML5.
+</video>
+
 ## What It Is
 
 Introspector is a modular offensive framework for observing and **weaponizing HTTP-based behavior** — including what happens *outside* the immediate response.
